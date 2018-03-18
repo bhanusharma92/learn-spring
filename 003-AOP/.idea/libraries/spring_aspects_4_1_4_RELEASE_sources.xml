@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-aspects-4.1.4.RELEASE-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-aspects-4.1.4.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

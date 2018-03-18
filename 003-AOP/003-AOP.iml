@@ -3,8 +3,8 @@
   <component name="FacetManager">
     <facet type="Spring" name="Spring">
       <configuration>
-        <fileset id="fileset" name="Config" removed="false">
-          <file>file://$MODULE_DIR$/src/resources/config.xml</file>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/resources/Config.xml</file>
         </fileset>
       </configuration>
     </facet>
@@ -88,6 +88,17 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/aopalliance-alpha1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
     <orderEntry type="library" name="aopalliance-1.0" level="project" />
+    <orderEntry type="library" name="spring-aspects-4.1.4.RELEASE-sources" level="project" />
+    <orderEntry type="library" name="aspectjweaver-1.6.2" level="project" />
   </component>
 </module>
